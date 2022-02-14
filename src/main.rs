@@ -31,7 +31,7 @@ fn main() {
                             std::process::exit(0);
                         }
                         for error in errors {
-                            println!("{}", error.domain);
+                            println!("> {}", error.domain);
                             println!("{} | {}", error.code, error.message);
                         }
                     }

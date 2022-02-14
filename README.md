@@ -14,6 +14,9 @@ $ fuck 0xbc0
 3008 | InvalidProgramId: Program ID was not as expected
 ```
 
+## Installation 🛠 
+- ```cargo build --release```
+- Now put `$PWD/target/release/fuck` in your PATH
 
 Inspired from [@samvwaal](https://twitter.com/samvwaal)
 

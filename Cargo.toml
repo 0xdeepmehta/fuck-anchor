@@ -1,0 +1,10 @@
+[package]
+name = "fuck"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "I was tired of looking up Anchor errors."
+repository = "https://github.com/0xdeepmehta/fuck-anchor"
+
+[dependencies]
+phf = { version = "0.10", features = ["macros"] }

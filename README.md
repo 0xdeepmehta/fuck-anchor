@@ -16,7 +16,7 @@ $ fuck 0xbc0
 
 ## Installation 🛠 
 - ```cargo build --release```
-- Now put `$PWD/target/release/fuck` in your PATH
+- Now put `$PWD/target/release/` in your PATH
 
 Inspired from [@samvwaal](https://twitter.com/samvwaal)
 
